@@ -5,12 +5,12 @@ title = 'Parichaya'
 
 ## Site Settings
 [params]
-logo = "assets/img/logo.webp"
-favicon = "assets/img/oooo.webp"
+logo = "assets/img/Parichaya_logo.png"
+favicon = "assets/img/PARICHAYA.png"
 
 # Info
-address = "Salt Lake Sector V, Kolkata- 700091"
-email = "souvikh@hornet.technology"
+address = "WEBEL-BCC&I Tech Incubation Centre Module 232, 1st Floor, SDF Building, Block EP & GP, Salt Lake Sector V, Kolkata- 700091"
+email = "souvik.haldar@parichaya.tech"
 phone = "+91 8653149116"
 
 # Socials
