@@ -2,7 +2,7 @@
 main:
   header:
     title : "Parichaya" # Title Text
-    description : "Your self-sovereign censorship resistant identity" # Title Desc
+    description : "Your self-sovereign censorship resistant identity to access every platform,powered by your reputation in the world" # Title Desc
     button:
       text: "Get Started" # Button Text
       url: "#about" # Button URL
