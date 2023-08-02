@@ -1,0 +1,32 @@
+# Main Title
+main:
+  header:
+    title : "Parichaya" # Title Text
+    description : "Your self-sovereign censorship resistant identity" # Title Desc
+    button:
+      text: "Get Started" # Button Text
+      url: "#about" # Button URL
+
+# About
+about:
+  title: "About us"
+  desc: "At Parichaya, we are on a mission to redefine the way identity and access management is perceived and implemented. We believe that individuals deserve full ownership and control over their digital identities, and that's why we are dedicated to building a decentralized and self-sovereign identity solution on the blockchain."
+  button:
+    enable: true
+    text: "Join Us"
+    url: "#"
+  
+
+projects:
+  card1:
+    title: "Empowering User-Centric Identity Management"
+    text: "In today's digital age, data breaches, identity theft, and privacy violations have become all too common. Traditional identity management systems often require users to entrust their sensitive personal information to centralized platforms, leaving them vulnerable to potential cyber threats. Our vision is to transform this paradigm by placing the power back into the hands of the users."
+    img: "assets/img/bg-masthead.jpg"
+  card2:
+    title: "Privacy, Security, and Interoperability"
+    text: "Parichaya revolutionizes identity and access management through privacy, security, and interoperability. Embracing decentralization, we store your identity data securely on the blockchain, rendering it tamper-resistant and transparent. You stay in control, deciding what to share, with whom, and for how long. Our verifiable credentials use DID and VC standards, providing cryptographically verifiable proofs without disclosing unnecessary personal details."
+    img: "assets/img/demo-image-01.jpg"
+  card3:
+    title: "Trust, Transparency, and Innovation"
+    text: "Trust is the foundation of our relationship with our users. We prioritize security and data protection to ensure that your digital identity is in safe hands. Transparency is a core principle that guides our every action. We believe in open communication and providing our users with complete visibility into how their data is handled."
+    img: "assets/img/demo-image-02.jpg"
